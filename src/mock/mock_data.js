@@ -50,25 +50,11 @@ export const mockData = {
           "icon": "https://claude.ai/favicon.ico"
         },
         {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "https://www.midjourney.com/apple-touch-icon.png"
-        },
-        {
           "id": "copilot",
           "name": "GitHub Copilot",
           "url": "https://github.com/features/copilot",
           "description": "AI代码助手",
           "icon": "https://github.com/favicon.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "https://cursor.sh/favicon.ico"
         }
       ]
     },
@@ -134,41 +120,6 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "https://github.com/favicon.ico"
-        },
-        {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "https://code.visualstudio.com/favicon.ico"
-        },
-        {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "https://www.jetbrains.com/favicon.ico"
-        },
-        {
-          "id": "postman",
-          "name": "Postman",
-          "url": "https://www.postman.com",
-          "description": "API测试工具",
-          "icon": "https://www.postman.com/_mk-www-v8.279.0/favicon-32x32.png?v=385b24b9d8db6d360e97f2fe356659b5"
-        },
-        {
-          "id": "android-studio",
-          "name": "Android Studio",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "https://developer.android.com/favicon.ico"
-        },
-        {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "https://www.oracle.com/favicon.ico"
         }
       ]
     },
@@ -220,100 +171,14 @@ export const mockData = {
       "name": "设计工具",
       "icon": "🎨",
       "order": 4,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "https://figma.com/favicon.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "https://www.sketch.com/favicon.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "https://www.canva.com/favicon.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "https://www.adobe.com/favicon.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
       "order": 5,
-      "sites": [
-        {
-          "id": "binance",
-          "name": "币安",
-          "url": "https://www.binance.com",
-          "description": "加密货币交易平台",
-          "icon": "https://bin.bnbstatic.com/static/images/bnb-for/brand.png"
-        },
-        {
-          "id": "okx",
-          "name": "OKX",
-          "url": "https://www.okx.com",
-          "description": "数字资产交易服务平台",
-          "icon": "https://www.okx.com/favicon.ico"
-        },
-        {
-          "id": "bitget",
-          "name": "Bitget",
-          "url": "https://www.bitget.com",
-          "description": "全球化数字资产交易服务商",
-          "icon": "https://www.bitget.com/favicon.ico"
-        },
-        {
-          "id": "tonghuashun",
-          "name": "同花顺",
-          "url": "https://www.10jqka.com.cn",
-          "description": "专业股票软件及金融信息服务",
-          "icon": "https://www.10jqka.com.cn/favicon.ico"
-        },
-        {
-          "id": "tradingview",
-          "name": "TradingView",
-          "url": "https://cn.tradingview.com",
-          "description": "专业金融图表和交易平台",
-          "icon": "https://cn.tradingview.com/favicon.ico"
-        },
-        {
-          "id": "xueqiu",
-          "name": "雪球",
-          "url": "https://xueqiu.com",
-          "description": "聪明的投资者都在这里",
-          "icon": "https://xueqiu.com/favicon.ico"
-        },
-        {
-          "id": "coinbase",
-          "name": "Coinbase",
-          "url": "https://www.coinbase.com",
-          "description": "美国合规加密货币交易平台",
-          "icon": "https://www.coinbase.com/favicon.ico"
-        },
-        {
-          "id": "futu",
-          "name": "富途牛牛",
-          "url": "https://www.futunn.com",
-          "description": "港美股交易软件",
-          "icon": "https://www.futunn.com/favicon.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "learning",
@@ -392,72 +257,14 @@ export const mockData = {
       "name": "娱乐休闲",
       "icon": "🎮",
       "order": 8,
-      "sites": [
-        {
-          "id": "bilibili",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
-          "description": "弹幕视频网站",
-          "icon": "https://www.bilibili.com/favicon.ico"
-        },
-        {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "https://www.youtube.com/favicon.ico"
-        },
-        {
-          "id": "zhihu",
-          "name": "知乎",
-          "url": "https://www.zhihu.com",
-          "description": "知识问答社区",
-          "icon": "https://www.zhihu.com/favicon.ico"
-        },
-        {
-          "id": "douban",
-          "name": "豆瓣",
-          "url": "https://www.douban.com",
-          "description": "文艺生活社区",
-          "icon": "https://www.douban.com/favicon.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
       "order": 9,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "https://www.notion.so/favicon.ico"
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "https://slack.com/favicon.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "https://trello.com/favicon.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "https://www.feishu.cn/favicon.ico"
-        }
-      ]
+      "sites": []
     }
   ],
   "title": "猫猫导航"
