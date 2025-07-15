@@ -26,6 +26,27 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "https://github.com/favicon.ico"
+        },
+        {
+          "id": "site-1752571328418",
+          "name": "Grok",
+          "url": "https://grok.com",
+          "description": "",
+          "icon": "https://grok.com/favicon.ico"
+        },
+        {
+          "id": "site-1752571364073",
+          "name": "aistudio",
+          "url": "https://aistudio.google.com",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64"
+        },
+        {
+          "id": "site-1752571421386",
+          "name": "有道云",
+          "url": "https://note.youdao.com/web/#/file/A2A72C52CE674DF783F9FB2FD8ABA909",
+          "description": "",
+          "icon": "https://note.youdao.com/favicon.ico"
         }
       ]
     },
@@ -55,6 +76,13 @@ export const mockData = {
           "url": "https://github.com/features/copilot",
           "description": "AI代码助手",
           "icon": "https://github.com/favicon.ico"
+        },
+        {
+          "id": "site-1752571394534",
+          "name": "gemini",
+          "url": "https://gemini.google.com",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64"
         }
       ]
     },
@@ -167,20 +195,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 4,
-      "sites": []
-    },
-    {
-      "id": "finance",
-      "name": "财经投资",
-      "icon": "💰",
-      "order": 5,
-      "sites": []
-    },
-    {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
@@ -213,6 +227,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "https://www.coursera.org/favicon.ico"
+        },
+        {
+          "id": "site-1752571306217",
+          "name": "uni-best",
+          "url": "https://www.unibest.tech/base/2-start",
+          "description": "",
+          "icon": "https://www.unibest.tech/favicon.ico"
         }
       ]
     },
@@ -251,20 +272,6 @@ export const mockData = {
           "icon": "https://tinypng.com/favicon.ico"
         }
       ]
-    },
-    {
-      "id": "entertainment",
-      "name": "娱乐休闲",
-      "icon": "🎮",
-      "order": 8,
-      "sites": []
-    },
-    {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 9,
-      "sites": []
     }
   ],
   "title": "猫猫导航"
